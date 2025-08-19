@@ -1,0 +1,53 @@
+Case Study Competition Walkthrough Script (for you to read on phone)
+
+Opening
+“Good [morning/afternoon], thank you all for joining. I’ll walk you through the finValley 2025 case competition problem statement. This is designed around a $10B multi-asset hedge fund that is exploring data lineage and tokenization to address real business challenges.”
+
+Context
+“The fund faces three key challenges:
+
+Capital recycling pressure, with a relatively low DPI.
+
+Over-allocation to illiquid strategies, especially after public market drawdowns.
+
+Restrictions from regulatory exposure limits.
+
+The competition asks participants to propose solutions using data lineage and tokenization frameworks, supported by AI-driven insights.”
+
+Challenge 1
+“The first challenge is GP-led secondaries and recycling. Participants need to propose how technology can create transparency and accelerate liquidity events.”
+
+Challenge 2
+“The second challenge is fund liquidity. Here, the focus is how tokenization of fund interests could enable partial redemptions, secondary trading, or liquidity sleeves.”
+
+Challenge 3
+“The third challenge is accessing HNW and retail capital. Participants must think about feeder fund structures, regulatory requirements, and how blockchain-based tokenization can broaden investor access while still staying compliant.”
+
+Expectations
+“Solutions should address both:
+
+Business side: ROI, risk mitigation, regulatory compliance.
+
+Technology side: Architecture, AI use cases, and data lineage for traceability.”
+
+What Can Be Tokenized
+“We’re guiding participants to think about tokenizing LP fund units, secondary interests, NAV-based facilities, and feeder funds. This creates liquidity, fractional access, and audit-ready transparency.”
+
+AI & Reporting Angle
+“Participants are encouraged to consider FundFlow-style dashboards: real-time exposure monitoring, risk alerts, liquidity waterfall reports, and predictive analytics. The idea is to show how AI can make investor reporting and compliance seamless.”
+
+Evaluation
+“Submissions will be judged across:
+
+Business understanding
+
+Innovation
+
+Feasibility
+
+ROI and risk
+
+Clarity of communication”
+
+Closing
+“In short, the competition is about connecting data lineage + tokenization + AI into a compelling, realistic solution for a hedge fund under real pressures. The goal is to test business analysis, creativity, and structured problem-solving.”
